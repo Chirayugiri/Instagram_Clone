@@ -1,3 +1,3 @@
 # instagram
 
-This app is a instagram clone.
+Made with Flutter and Firebase
