@@ -41,17 +41,6 @@ A full-featured social media application built using Flutter and Firebase, inspi
 https://github.com/user-attachments/assets/d4943859-7151-4768-bd8b-0194638de4ad
 
 
-
-## Future Enhancements
-
-- Push Notifications
-- Video Sharing
-- Explore Page with AI-based recommendations
-
-## Contributing
-
-Contributions are welcome! Feel free to fork the repository, open issues, and submit pull requests.
-
 ## Contact
 
 For any questions, feel free to reach out:
