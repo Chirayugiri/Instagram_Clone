@@ -37,7 +37,8 @@ A full-featured social media application built using Flutter and Firebase, inspi
    flutter run
    ```
 
-## Screenshots
+## Demo Video
+https://github.com/user-attachments/assets/d4943859-7151-4768-bd8b-0194638de4ad
 
 
 
